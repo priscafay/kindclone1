@@ -1,0 +1,271 @@
+.container{
+	text-align: center;
+	width: auto;
+	margin:  0  5px 0 5px;
+}
+#first{
+	height: 65px;
+	background-color: black;
+}
+.gli {
+padding-top: 25px;
+}
+.gli a{
+	color: white;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+.gli a:hover{
+	text-decoration: none;
+	color: #C6C6C6;
+}
+.gli li{
+	margin-right: 10px;
+}
+#jit{
+	background-color: #F6F6F6;
+}
+#jit img{
+	width: 70px;
+	margin-left: 10px;
+}
+.bets{
+	color: black;
+	font-weight: bold;
+}
+.bets:hover{
+	color: black;
+	text-decoration: none;
+}
+#jit i{
+	border: 2px solid rgb(216,216,216);
+	background: #F6F6F6;
+	border-radius: 50%;
+}
+
+.uno:hover{
+border-bottom:none;
+}
+.faris{
+	height: 300px;
+	padding: 90px 300px 0 300px;
+	font-size: 1.2em; 
+	margin-bottom: 175px;
+}
+.faris h2{
+	font-weight: bold;
+	font-size: 2.6em;
+	padding-bottom: 25px;
+}
+.faris h5{
+	font-weight: bold;
+	font-size: 1.5em;
+	margin: 25px 0 25px 0;
+}
+.faris a{
+	font-size:0.8em;
+	font-weight: bold; 
+	color: black;
+	border-bottom: 2px solid black;
+	padding-bottom: 5px;
+}
+.faris a:hover{
+	color: black;
+	border-bottom: 2px solid black;
+	padding-bottom: 3px;
+	text-decoration: none;
+}
+.wraper i{
+	border: 1px solid #CDCDC1;
+background: #FFFFFF;
+border-radius: 50%;
+}
+.card{
+	background: black;
+	color: white;
+	width: 745px;
+	margin-left: 240px;
+	text-align: left;
+	padding-left: 50px;
+}
+.lis{
+	margin: 105px 0 12px 0;
+	
+}
+.lis h1{
+	font-weight: bold;
+	color: black;
+	font-size: 4em;
+}
+.lis p{
+	color: black;
+	font-size: 1.4em;
+	font-family: 'Bell MT', serif;
+	margin-bottom: 70px;
+}
+.lis a{
+	color:black;
+	margin-right:40px;
+	font-weight: bold; 
+}
+.lis a:hover{
+	text-decoration: none;
+	border-bottom: 4px solid black;
+	padding-bottom: 10px;
+}
+.noc{
+	background-color: #61B4E4;
+	height: 500px;
+	color: #F8FCFE;
+	text-align: left;
+	padding: 120px 145px 120px 145px;
+}
+.noc a{
+	color: white;
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 0.9em;
+}
+.noc p{
+	font-family: 'Bell MT', serif;
+	padding: 20px 0 20px 0;
+	font-size: 1.1em;
+}
+.noc h2{
+font-weight: bold;
+}
+.wrapp h2{
+	font-size: 4em;
+	font-weight: bold;
+	color: black;
+}
+.wrapp span{
+	font-weight: bold;
+	font-size: 1.3em;
+	color: black;
+}
+#grei{
+	margin-top: 75px;
+	padding: 0 105px 0 105px;
+}
+#boid{
+	text-align: left;
+}
+#boid p{
+	color: black;
+	font-size: 1.4em;
+	font-family: 'Ariel Rounded MT bold', serif;
+	text-align: left;
+	padding-right: 80px;
+	margin-bottom: 40px;
+}
+#boid span{
+	color: rgb(178,178,178);
+	font-size: 1em;
+	font-weight: normal;
+	font-family: 'Bell MT',serif;
+}
+#boid button{
+	color: black;
+	margin-bottom: 20px;
+	border-color: black;
+	background-color: white;
+	padding: 10px 30px;
+}
+#boid button:hover{
+	background-color: black;
+	color: white;
+}
+.wrap{
+	color: black;
+	background-color: rgb(242,242,242);
+	height: 200px;
+	padding-top: 25px;
+	color: rgb(24,18,16);
+}
+.wrap h4{
+	font-weight: bold;
+	font-size: 1.7em;
+}
+.wrap p{
+	font-family: 'Bell MT',serif;
+	font-size: 1.3em;
+}
+.wrap button{
+	color: black;
+	margin-top: 20px;
+	border-color: black ;
+	background-color: rgb(242,242,242);
+	padding: 10px 30px;
+}
+
+.wrap button:hover{
+	color: white;
+	background-color: black;
+}
+footer{
+	background-color: black;
+	height: 350px;
+	padding-top: 50px;
+}
+#notf li{
+display:inline-block;
+margin-top: 10px;
+}
+#notf ul{
+	text-align: left;
+	float: right;
+}
+#notf a{
+	color: white;
+}
+#notf a:hover{
+	text-decoration: none;
+	color: #C6C6C6;
+}
+#notf span{
+   font-weight: bold;
+}
+#nuf{
+	width: 250px;
+}
+#nuf i{
+	border: 1px solid white;
+background: black;
+border-radius: 50%;
+color: white;
+}
+#bik{
+	padding-left:120px; 
+}
+#bac li{
+display: inline-block;
+margin-right: 90px;
+}
+#bac ul{
+	text-align:center;
+	margin-top: 90px;
+}
+#bac a{
+	color: #C6C6C6;
+}
+#bac a:hover{
+	color: white;
+	text-decoration: none;
+}
+.kil{
+	width: 1000px;
+}
+.btn-primary{
+	border-radius: 30px;
+	padding: 15px 30px;
+	background: black;
+	border: none;
+	position: fixed;
+	bottom: 90px;
+	right: 10px;
+
+}
+.btn-primary:hover{
+	background: black;
+}

@@ -1,0 +1,273 @@
+.container{
+	width: auto;
+	margin:  0  5px 0 5px;
+}
+#first{
+	height: 65px;
+	background-color: black;
+}
+.gli {
+padding-top: 25px;
+}
+.gli a{
+	color: white;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+.gli a:hover{
+	text-decoration: none;
+	color: #C6C6C6;
+}
+.gli li{
+	margin-right: 10px;
+}
+#jit{
+	background-color: #F6F6F6;
+}
+#jit img{
+	width: 100px;
+}
+#jit a{
+	color: black;
+	font-weight: bold;
+}
+#jit a:hover{
+	color: black;
+	text-decoration: none;
+	border-bottom: 3px solid black;
+	padding-bottom: 10px;
+}
+
+.bets{
+	color: black;
+	font-weight: bold;
+}
+.bets:hover{
+	color: black;
+	text-decoration: none;
+}
+
+#jit i{
+	border: 2px solid rgb(216,216,216);
+	background: #F6F6F6;
+	border-radius: 50%;
+}
+.uno:hover{
+border-bottom:none;
+}
+#faris h1 {
+	display: inline-block;
+    font-size: 4em;
+    font-weight: bold;
+    padding: 50px 150px 70px 170px;
+   
+}
+#nitr{
+	text-align: left;
+	width: 350px;
+	margin-left: 20px;
+}
+#nitr h2,h4{
+	font-weight: bold;
+}
+#nitr p{
+	font-size: 1.2em;
+	font-family: 'Arial Rounded MT bold',serif;
+	margin-top: 25px;
+	margin-bottom: 50px;
+}
+#nitr a{
+	color: black;
+} 
+#nitr a:hover{
+	color: rgb(119,119,119);
+	text-decoration: none;
+}
+#nitr span{
+	font-family: 'Arial Rounded MT bold',serif;
+}
+#blid{
+	padding-left: 140px;
+}
+#tinr h2{
+	font-weight: bold;
+}
+#tinr p{
+    font-size: 1.2em;
+	font-family: 'Arial Rounded MT bold',serif;
+	margin-top: 25px;
+	margin-bottom: 50px;
+}
+#tinr a{
+	color: black;
+	border-bottom: 2px solid black;
+	padding-bottom: 5px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 0.9em;
+
+}
+#tinr a:hover{
+	text-decoration: none;
+}
+.wrap{
+	height: 350px;
+	background-color: rgb(242,242,242);
+	text-align: center;
+	padding-top: 50px;
+	width: auto;
+	font-weight: bold;
+	color: rgb(0,0,0);
+
+}
+.wrap h2{
+	font-size: 5em;
+	color: black;
+	font-weight: bold;
+}
+.wrap span{
+	font-size: 1.3em;
+	color: rgb(145,145,145);
+}
+.wrap button{
+	margin-top: 25px;
+	padding: 15px 30px;
+	background-color: black;
+	border-color: black;
+	color: white;
+}
+.wraper{
+	margin-top: 110px;
+	text-align: center;
+}
+.wraper i{
+	border: 2px solid rgb(216,216,216);
+	background: #F6F6F6;
+	border-radius: 50%;
+}
+.card{
+	background: black;
+	color: white;
+	width: 745px;
+	margin-left: 222px;
+	text-align: left;
+	height: 80px;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+.wrapp h2{
+	text-align: center;
+	font-weight: bold;
+	color: black;
+	font-size: 5em;
+	margin: 90px 0 40px 0;
+}
+#grei{
+	padding-left: 50px;
+    text-align: left;
+    margin-bottom: 90px;
+}
+#boid{
+	padding: 120px 160px 120px 0;
+	color: black;
+}
+#boid h4{
+	font-size: 2.5em;
+}
+#boid p{
+	font-family: 'Arial Rounded MT bold',serif;
+	font-size: 1.2em;
+	margin-bottom: 25px;
+}
+.first-link{
+	color: black;
+	margin-left: 10px;
+}
+
+.first-link:hover{
+	text-decoration: none;
+	color: black;
+}
+.link{
+	color: black;
+	border-bottom: 2px solid black;
+}
+.link:hover{
+	color: rgb(242,242,242);
+	border-bottom: 2px solid rgb(242,242,242);
+	padding-bottom: 5px;
+}
+.about-yet{
+	height: 400px;
+	background-color: rgb(242,242,242);
+	text-align: center;
+	padding-top: 40px;
+	color: black;
+}
+.about-yet button{
+	margin: 20px 0 20px 0;
+	padding: 10px 30px;
+	background-color: rgb(242,242,242);
+	border: 2px solid black;
+}
+.about-yet button:hover{
+	background-color: black;
+	color: white;
+}
+.about-yet span{
+	font-size: 1.2em;
+}
+footer{
+	background-color: black;
+	height: 350px;
+	padding-top: 50px;
+
+}
+#notf li{
+display:inline-block;
+margin-top: 10px;
+}
+#notf ul{
+	text-align: left;
+	float: right;
+}
+#notf a{
+	color: white;
+}
+#notf a:hover{
+	text-decoration: none;
+	color: #C6C6C6;
+}
+#notf span{
+   font-weight: bold;
+}
+#nuf{
+	width: 250px;
+}
+#nuf i{
+	border: 1px solid white;
+background: black;
+border-radius: 50%;
+color: white;
+}
+#bik{
+	padding-left:120px; 
+}
+#bac li{
+display: inline-block;
+margin-right: 90px;
+}
+#bac ul{
+	text-align:center;
+	margin-top: 90px;
+}
+#bac a{
+	color: #C6C6C6;
+}
+#bac a:hover{
+	color: white;
+	text-decoration: none;
+}
+.kil{
+	width: 1000px;
+}

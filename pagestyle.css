@@ -1,0 +1,333 @@
+.container{
+	width: auto;
+	margin:  0  5px 0 5px;
+}
+#first{
+	height: 65px;
+	background-color: black;
+}
+.gli {
+padding-top: 25px;
+}
+.gli a{
+	color: white;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+.gli a:hover{
+	text-decoration: none;
+	color: #C6C6C6;
+}
+.gli li{
+	margin-right: 10px;
+}
+#jit{
+	background-color: #F6F6F6;
+}
+#jit img{
+	width: 100px;
+}
+#jit a{
+	color: black;
+	font-weight: bold;
+}
+#jit a:hover{
+	color: black;
+	text-decoration: none;
+	border-bottom: 3px solid black;
+	padding-bottom: 10px;
+}
+
+#jit i{
+	border: 2px solid rgb(216,216,216);
+	background: #F6F6F6;
+	border-radius: 50%;
+}
+
+.uno:hover{
+border-bottom:none;
+}
+#gret{
+	background-color: rgb(9,93,103);
+	height: 437px;
+	text-align: center;
+}
+#gret h1{	
+font-size: 5em;
+padding: 0 300px 50px 300px;
+color: white;
+line-height: 0.8em;
+font-weight: bold;
+}
+#gret button{
+	color: white;
+	background-color: black;
+	border-color: black;
+	border-radius: 0px;
+	width: 157px;
+	
+}
+#gret button:hover{
+	background-color: #C6C6C6;
+	border-color: #C6C6C6;
+}
+#fats{
+	padding: 50px 120px 50px 120px;
+}
+#fats h2{
+	text-align: center;
+	font-weight: bold;
+}
+#fats a{
+	color: black;
+}
+#fats a:hover{
+	color: black;
+	text-decoration: none;
+}
+#griu{
+	height: 500px;
+	background-color: rgb(242,242,242);
+	text-align: center;
+	padding: 0 50px 0 50px;
+}
+#griu h3{
+	font-weight: bold;
+	font-size:2em; 
+
+}
+#griu button{
+	background-color: black;
+	width: 157px;
+	color: white;
+	border-radius: 0px;
+	font-weight: bold;
+	margin: 25px 0 30px 0;
+}
+#griu button:hover{
+	border-color: #C6C6C6;
+	background-color: #C6C6C6;
+
+}
+#griu a{
+	font-weight:bold; 
+	color: black;
+	border-bottom: 2px solid black;
+	padding-bottom: 5px;
+	
+}
+#griu a:hover{
+border-bottom: 2px solid #C6C6C6;
+	padding-bottom: 5px;
+text-decoration: none;
+	color: #C6C6C6;
+}
+#brid{
+	padding: 150px 0 0 150px;
+}
+#brid span{
+font-weight: bold;
+}
+#brid h3{
+	margin: 35px 0 35px 0;
+	font-size: 2.5em;
+	font-weight: bold;
+}
+#brid p{
+	margin-bottom: 30px;
+}
+#brid a{
+	color: black;
+	border-bottom: 2px solid black;
+	padding-bottom: 5px;
+}
+#brid a:hover{
+	text-decoration: none;
+	border-bottom: 2px solid #C6C6C6;
+	padding-bottom: 5px;
+}
+#fri{
+	padding:150px 0 0 20px; 
+}
+#bri{
+	padding: 250px  100px 0 300px;
+}
+#bri h2{
+
+	margin: 35px 0 35px 0;
+	font-size: 2.5em;
+	font-weight: bold;
+}
+#bri p{
+	margin-bottom: 30px;
+}
+#bri a{
+	color: black;
+	border-bottom: 2px solid black;
+	padding-bottom: 5px;
+	font-size: 0.8em;
+	font-weight: bold;
+}
+
+#bri a:hover{
+	text-decoration: none;
+	border-bottom: 2px solid #C6C6C6;
+	padding-bottom: 5px;
+}
+#text-center{
+	background-color: #F2F2F2;
+	height: 250px;
+	padding-top: 50px;
+	text-align: center;
+}
+#text-center h2{
+font-weight: bold;
+}
+#text-center p{
+	padding-bottom: 20px;
+}
+#text-center button{
+	background-color: black;
+	border-radius: 0;
+	color: white;
+}
+#text-center button:hover{
+	background-color: #C6C6C6;
+	border-color: #C6C6C6;
+	color: white;
+}
+.vats{
+	width: 615px;
+	height: 310px;
+	position: relative;
+	left: 300px;
+	bottom: 290px;
+	font-weight: bold;
+	text-align: center;
+	background-color: rgb(252,252,252);
+	padding-top: 75px;
+}
+.vats h2{
+	font-size: 4em;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+.vats button{
+	background-color: black;
+	border-radius: 0;
+	color: white;
+}
+.vats button:hover{
+	background-color: #C6C6C6;
+	border-color: #C6C6C6;
+	color:white;
+}
+#tax{
+	height: 400px;
+	background-color: red;
+}
+#featur{
+	height: 400px;
+	background-color: rgb(242,242,242);
+	padding-top: 150px;
+	text-align: center;
+}
+#featur h2{
+	color: black;
+	font-size: 4em;
+	font-weight: bold;
+}
+#featur p{
+	padding: 10px;
+}
+#vet {
+	height: 50px;
+    background-color: rgb(242,242,242);
+	padding:0 80px 0 100px;
+	margin: 0 1px 0 1px;
+
+}
+#vet img{
+width: 320px;
+}
+.card {
+	text-align: center;
+	background-color: white;
+	color: black;
+	padding-top: 25px;
+	height: 200px;
+	width: 320px;
+	margin-bottom: 185px;
+}
+.card h4{
+	font-weight: bold;
+	font-size: 1.7em;
+}
+.card button{
+	margin-top: 25px;
+	border-radius: 0;
+	border: 2px solid black;
+	color: black;
+	background-color: white;
+}
+.card button:hover{
+	color: white;
+	background-color: black;
+	border-color: black;
+}
+footer{
+	background-color: black;
+	height: 1000px;
+	margin: 0 5px 0 5px;
+}
+#notf li{
+display:inline-block;
+margin-top: 10px;
+}
+#notf ul{
+	
+	float: right;
+
+}
+#notf a{
+	color: white;
+}
+#notf a:hover{
+	text-decoration: none;
+	color: #C6C6C6;
+}
+#notf span{
+   font-weight: bold;
+}
+#nuf{
+	width: 250px;
+}
+
+#nuf i{
+	border: 1px solid white;
+background: black;
+border-radius: 50%;
+color: white;
+}
+#bik{
+	padding-left:120px; 
+}
+#bac li{
+display: inline-block;
+margin-right: 90px;
+}
+#bac ul{
+	text-align:center;
+	margin-top: 90px;
+}
+#bac a{
+	color: #C6C6C6;
+}
+#bac a:hover{
+	color: white;
+	text-decoration: none;
+}
+
+.kil{
+	width: 1000px;
+}
